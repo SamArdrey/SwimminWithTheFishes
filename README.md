@@ -1,7 +1,7 @@
-# Fish in the Sea - An Optimists Take
+# Swimmin with the Fishes - An Optimists Take
 
 ## Background and Overview
-  Fish in the Sea is a data visualization tool for people to view their chances at finding love in San Francisco.
+  Swimmin with the Fishes is a data visualization tool for people to view their chances at finding love in San Francisco.
 
   Users will have an initial view of all people living in San Francisco and can filter their results based upon results from census.gov's public api.
 
@@ -9,7 +9,7 @@
 
 ## Functionality and MVP
 
-  In Fish in the Sea, users will be able to:
+  In Swimmin with the Fishes, users will be able to:
     * [] Filter results in any order they choose
     * [] Unfilter results in any order they choose
     * [] Reset their results without refreshing the page

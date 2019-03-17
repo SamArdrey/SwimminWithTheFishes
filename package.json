@@ -1,7 +1,7 @@
 {
-  "name": "fishinthesea",
+  "name": "SwimminWithTheFishes",
   "version": "1.0.0",
-  "description": "Fish in the Sea is a data visualization tool for people to view their chances at finding love in San Francisco.",
+  "description": "Swimmin with the Fishes is a data visualization tool for people to view their chances at finding love in San Francisco.",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
